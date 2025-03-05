@@ -13,14 +13,3 @@
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> <img width="50" height="50" src="https://img.icons8.com/color/50/html-5.png" alt="html-5"/> <img width="50" height="50" src="https://img.icons8.com/color/50/css3.png" alt="css3"/> <img width="50" height="50" src="https://img.icons8.com/dusk/64/javascript-logo.png" alt="javascript-logo"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rahhul_25?theme=dark&font=NTR)
-
-
-
-
-
-- 🤔 I’m looking for help with ...
-
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
