@@ -14,6 +14,6 @@
 
 ### PLATFORMS I USE :-
 
- <img width="50" height="50" src="https://img.icons8.com/officel/80/java-eclipse.png" alt="java-eclipse"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/> <img width="50" height="50" src="https://img.icons8.com/dusk/64/visual-studio.png" alt="visual-studio"/> 
+ <img width="50" height="50" src="https://img.icons8.com/officel/80/java-eclipse.png" alt="java-eclipse"/> <img width="50" height="50"    src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/> <img width="50" height="50" src="https://img.icons8.com/dusk/64/visual-studio.png" alt="visual-studio"/> 
 ### LEETCODE PROFILE :-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rahhul_25?theme=dark&font=NTR)
