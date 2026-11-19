@@ -2,11 +2,11 @@
 ##### Electronics and communication Engineering Graduate
 <img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🌱 Currently Learning DSA
-- 🤔Looking for an SDE or Web Developer role
+- 🧑‍💼 Currently working at TCS
+- 🌱 Continuosly Learning Technology
 - 💬 Ask me about Tech
 - 📫 How to reach me:
-<br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/rahhul-vinai-502786225) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](rahhulnikil25@gmail.com)
+<br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">(www.linkedin.com/in/rahhul-vinai-502786225)] [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">(rahhulnikil25@gmail.com)]
 - 😄 Pronouns: Techie
   
 ### I CODE in :-
